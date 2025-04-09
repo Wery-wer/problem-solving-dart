@@ -9,17 +9,11 @@ Wery Holanta Mangera
 - File: `a000124.dart`
 - Fungsi: `generateA000124(int n)`
 - Deskripsi: Menghasilkan deret A000124 sebanyak `n` angka.
-- Kompleksitas:
-  - Time: O(n)
-  - Space: O(n)
 
 ### 2. Dense Ranking
 - File: `dense_ranking.dart`
 - Fungsi: `denseRanking(List<int> leaderboard, List<int> gitsScores)`
 - Deskripsi: Mengembalikan list ranking GITS berdasarkan skema dense ranking.
-- Kompleksitas:
-  - Time: O(n * m) (dapat dioptimasi dengan binary search jika diperlukan)
-  - Space: O(n)
 
 ### 3. Balanced Bracket
 - File: `balanced_bracket.dart`
